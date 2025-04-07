@@ -1,0 +1,85 @@
+C:\Users\chwah\Documents\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Documents\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Documents\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Documents\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\Documents\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Documents\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Documents\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Dropbox (Operations)\Family\Christopher\Coding Shuzz\C#\3D Rubiks Cube\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubik's Cube\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.exe
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.csproj.AssemblyReference.cache
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.exe
+C:\Users\983942\source\repos\3D Rubiks Cube - Copy\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.AssemblyReference.cache
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\983942\source\repos\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.AssemblyReference.cache
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\983942\Downloads\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\OneDrive\Documents\Rubiks Cube Console Simulation v19\Rubiks Cube Console Simulation v18\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v24\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csprojAssemblyReference.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Downloads\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe.config
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\bin\Debug\3D Rubiks Cube.pdb
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.AssemblyReference.cache
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.SuggestedBindingRedirects.cache
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.csproj.CoreCompileInputs.cache
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.exe
+C:\Users\chwah\Dropbox\PC\Downloads\Rubiks Cube Console Simulation v31\Rubiks Cube Console Simulation v30\Rubiks Cube Console Simulation v26\Rubiks Cube Console Simulation\obj\Debug\3D Rubiks Cube.pdb
